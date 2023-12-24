@@ -1,2 +1,4 @@
 print (0)
-print (1)
+sum{
+int x}
+
